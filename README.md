@@ -1,7 +1,6 @@
-# IMD
-## Intelligent Mobile Development
+# Intelligent Mobile Development
 
-### What is the class about?
+## What is the class about?
 
 1. Investigating the interaction between people and mobile devices
 2. Creating compelling mobile applications and services
