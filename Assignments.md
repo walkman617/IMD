@@ -10,3 +10,4 @@
 - [Markdown](https://www.markdownguide.org/) is a lightweight markup language that you can use to add formatting elements to plaintext text documents. 
 - Learn from the [Basic Syntax](https://www.markdownguide.org/basic-syntax/) and [Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 - Write down the idea and plan in your github README.md for creating your own mobile app.
+- You can change it during this term anytime.
