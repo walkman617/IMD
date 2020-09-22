@@ -11,3 +11,6 @@
 - Learn from the [Basic Syntax](https://www.markdownguide.org/basic-syntax/) and [Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 - Write down the idea and plan in your github README.md for creating your own mobile app.
 - You can change it during this term anytime.
+
+## 3. Practices
+- [1.1: Android Studio and Hello World](https://codelabs.developers.google.com/codelabs/android-training-hello-world/#0)
