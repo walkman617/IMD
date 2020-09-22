@@ -10,7 +10,7 @@
 - [Solution Code](https://github.com/google-developer-training/android-fundamentals-apps-v2)
 
 
-## Practicals
+## Practices
 - [1.1 : Android Studio and Hello World](https://codelabs.developers.google.com/codelabs/android-training-hello-world/)
 
 - 1.2: Layouts and resources for the UI
