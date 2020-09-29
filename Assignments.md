@@ -17,3 +17,7 @@
 - 1.2: Layouts and resources for the UI
     - [Part A: Your first interactive UI](https://codelabs.developers.google.com/codelabs/android-training-layout-editor-part-a/)
     - [Part B: The layout editor](https://codelabs.developers.google.com/codelabs/android-training-layout-editor-part-b/)
+
+- [1.3: Text and scrolling views](https://codelabs.developers.google.com/codelabs/android-training-text-and-scrolling-views/)
+
+- [1.4: Learn to help yourself](https://codelabs.developers.google.com/codelabs/android-training-available-resources/)
