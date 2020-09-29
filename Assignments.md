@@ -14,3 +14,6 @@
 
 ## 3. Practices
 - [1.1: Android Studio and Hello World](https://codelabs.developers.google.com/codelabs/android-training-hello-world/#0)
+- 1.2: Layouts and resources for the UI
+    - [Part A: Your first interactive UI](https://codelabs.developers.google.com/codelabs/android-training-layout-editor-part-a/)
+    - [Part B: The layout editor](https://codelabs.developers.google.com/codelabs/android-training-layout-editor-part-b/)
