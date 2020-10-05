@@ -12,7 +12,9 @@
 - Write down the idea and plan in your github README.md for creating your own mobile app.
 - You can change it during this term anytime.
 
-## 3. Practices
+## 3. Practical [Codelabs](https://developer.android.com/courses/fundamentals-training/toc-v2)
+### Unit 1: Get started
+#### Lesson 1: Build your first app
 - [1.1: Android Studio and Hello World](https://codelabs.developers.google.com/codelabs/android-training-hello-world/#0)
 - 1.2: Layouts and resources for the UI
     - [Part A: Your first interactive UI](https://codelabs.developers.google.com/codelabs/android-training-layout-editor-part-a/)
@@ -21,3 +23,8 @@
 - [1.3: Text and scrolling views](https://codelabs.developers.google.com/codelabs/android-training-text-and-scrolling-views/)
 
 - [1.4: Learn to help yourself](https://codelabs.developers.google.com/codelabs/android-training-available-resources/)
+
+#### Lesson 2: Activities and intents
+- [2.1: Activities and intents](https://codelabs.developers.google.com/codelabs/android-training-create-an-activity/index.html)
+- [2.2: Activity lifecycle and state](https://codelabs.developers.google.com/codelabs/android-training-activity-lifecycle-and-state/index.html)
+- [2.3: Implicit intents](https://codelabs.developers.google.com/codelabs/android-training-activity-with-implicit-intent/index.html)
