@@ -1,7 +1,7 @@
 # Android Developer Fundamentals (V2) 
 
 ## Introduction
-[Android Developer Fundamentals (V2)](https://developer.android.com/courses/fundamentals-training/overview-v2) is an instructor-led course created by the [Google Developers Training](https://developers.google.com/training) team. Developers taking the course learn basic Android programming concepts and build a variety of apps, starting with Hello World and working their way up to apps that use a Room database.
+[Android Developer Fundamentals (V2)](https://developer.android.com/courses/fundamentals-training/overview-v2) is an instructor-led course created by the [Google Developers Training](https://developers.google.com/training) team. To take the course, you must have experience with the Java programming language.
 
 
 - [Concepts](https://google-developer-training.github.io/android-developer-fundamentals-course-concepts-v2/)
