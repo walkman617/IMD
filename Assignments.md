@@ -14,18 +14,24 @@
 
 ## Week 2. Get started
 - [Codelab 1.1: Android Studio and Hello World](https://codelabs.developers.google.com/codelabs/android-training-hello-world/#0)
+
 ![Codelab 1.1](./assets/cl1.1.png)
 
 ## Week 3. Layouts and resources for the UI
 - [Codelab 1.2 Part A: Your first interactive UI](https://codelabs.developers.google.com/codelabs/android-training-layout-editor-part-a/)
-- [Codelab 1.2 Part B: The layout editor](https://codelabs.developers.google.com/codelabs/android-training-layout-editor-part-b/)
+
 ![Codelab 1.2A](./assets/cl1.2A.png)
+
+- [Codelab 1.2 Part B: The layout editor](https://codelabs.developers.google.com/codelabs/android-training-layout-editor-part-b/)
+
 ![Codelab 1.2B](./assets/cl1.2B.png)
 
 ## Week 4. Activities and intents
 - [Codelab 2.1: Activities and intents](https://codelabs.developers.google.com/codelabs/android-training-create-an-activity/index.html)
+
 ![Codelab 2.1](./assets/cl2.1.png)
 
 ## Week 5. Implicit Intents
 - [Codelab 2.3: Implicit Intents](https://codelabs.developers.google.com/codelabs/android-training-activity-with-implicit-intent/)
+
 ![Codelab 2.3](./assets/cl2.3.png)
