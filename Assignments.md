@@ -41,3 +41,7 @@
 - [Codelab 4.1: Clickable images](https://codelabs.developers.google.com/codelabs/android-training-clickable-images)
 
 ![Codelab 4.1](./assets/cl4.1.png)
+
+- [Codelab 4.2: Input controls](https://codelabs.developers.google.com/codelabs/android-training-input-controls)
+
+![Codelab 4.1](./assets/cl4.2.png)
