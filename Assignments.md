@@ -35,3 +35,9 @@
 - [Codelab 2.3: Implicit Intents](https://codelabs.developers.google.com/codelabs/android-training-activity-with-implicit-intent/)
 
 ![Codelab 2.3](./assets/cl2.3.png)
+
+
+## Week 6. User Interaction
+- [Codelab 4.1: Clickable images](https://codelabs.developers.google.com/codelabs/android-training-clickable-images)
+
+![Codelab 4.1](./assets/cl4.1.png)
