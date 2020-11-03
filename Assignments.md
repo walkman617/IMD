@@ -54,3 +54,8 @@
 - [Codelab 4.5: RecyclerView](https://codelabs.developers.google.com/codelabs/android-training-create-recycler-view)
 
 ![Codelab 4.5](./assets/cl4.5.png)
+
+## Week 8. Material Design
+- [Codelab 5.2: Cards and colors](https://codelabs.developers.google.com/codelabs/android-training-cards-and-colors)
+
+![Codelab 5.2](./assets/cl5.2.png)
