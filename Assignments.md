@@ -59,3 +59,8 @@
 - [Codelab 5.2: Cards and colors](https://codelabs.developers.google.com/codelabs/android-training-cards-and-colors)
 
 ![Codelab 5.2](./assets/cl5.2.png)
+
+## Week 9. Background Tasks
+- [Codelab 7.2: AsyncTask and AsyncTaskLoader](https://developer.android.com/codelabs/android-training-asynctask-asynctaskloader)
+
+![Codelab 7.2](./assets/cl7.2.png)
