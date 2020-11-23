@@ -17,4 +17,5 @@
 - You start with Hello World and work your way up to apps that schedule jobs, update settings, and use Android Architecture Components.
 
 ## Assignments
-- [Click here](./Assignments.md)
+- [Codelabs](./Assignments.md)
+- [Final Report](./Final_Report.docx)
