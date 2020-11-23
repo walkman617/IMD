@@ -18,7 +18,7 @@
 
 ## Assessment
 - Assignments: 30%
-    - Upload 10 screenshots to your github following the [Assignments.md](./Assignments.md).
+    - Upload 10 screenshots (from week-2 to week-11) to your github following the [Assignments.md](./Assignments.md).
     - Check your GitHub Url in the [form](https://docs.qq.com/sheet/DRmxJek93RFdTSHNX).
 - Final Report: 70%
     - Use the [Report Template](./Final_Report.docx) and write your own practical report.
