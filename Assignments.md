@@ -4,10 +4,11 @@
 <strong>1. GitHub your project</strong>: Github is a code hosting platform for version control and collaboration.
 - Create your own [GitHub](https://github.com/) account by following the [guide](https://guides.github.com/activities/hello-world/).
 - Manage your project using [GitHub Desktop](https://desktop.github.com/)
+- Fill your GitHub url-link in the [Roster.xls](https://docs.qq.com/sheet/DRk1iYXJvd0FPdHNX)
 
-<strong>2. Write your *.md</strong>: [Markdown](https://www.markdownguide.org/) is a lightweight markup language that you can use to add formatting elements to plaintext text documents. 
+<strong>2. Markdown your readme.md</strong>: [Markdown](https://www.markdownguide.org/) is a lightweight markup language that you can use to add formatting elements to plaintext text documents. 
 - Learn from the [Basic Syntax](https://www.markdownguide.org/basic-syntax/) and [Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
-- Write your own <strong>README.md in your github</strong> which includes your app plan and design.
+- Write a <strong>flutter.md</strong> file in your github to introduce the Flutter (see: https://flutter.dev/).
 
 
 ## Lab 2. Get started
