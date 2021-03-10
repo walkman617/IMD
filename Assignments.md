@@ -2,6 +2,7 @@
 
 ## Lab 1. Kick off
 <strong>1. GitHub your project</strong>: Github is a code hosting platform for version control and collaboration.
+
 - Create your own [GitHub](https://github.com/) account by following the [guide](https://guides.github.com/activities/hello-world/).
 - Manage your project using [GitHub Desktop](https://desktop.github.com/)
 - Fill your GitHub url-link in the [Roster.xls](https://docs.qq.com/sheet/DRk1iYXJvd0FPdHNX)
