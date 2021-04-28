@@ -75,18 +75,18 @@
 
 ![Codelab 9.1](./assets/cl9.1.png)
 
-## Lab 12（Optional）. App settings
+## Lab 12 (Optional). App settings
 - [Codelab 9.2: Shared Preferences](https://developer.android.com/codelabs/android-training-adding-settings-to-app)
 
 ![Codelab 9.2](./assets/cl9.2.png)
 
-## Lab 13（Optional）. App settings
+## Lab 13 (Optional). Room, LiveData, and ViewModel
 - [Codelab 10.1 Part A: Room, LiveData, and ViewModel](https://developer.android.com/codelabs/android-training-livedata-viewmodel)
 
 ![Codelab 10.1 Part A](./assets/cl10.1A1.png)
 ![Codelab 10.1 Part A](./assets/cl10.1A2.png)
 
-## Lab 14（Optional）. App settings
+## Lab 14 (Optional). Deleting data from a Room database
 - [Codelab 10.1 Part B: Deleting data from a Room database](https://developer.android.com/codelabs/android-training-room-delete-data)
 
 ![Codelab 10.1 Part B](./assets/cl10.1B1.png)
