@@ -21,4 +21,4 @@
     - Upload 10 screenshots (from Lab 2 to Lab 11) to your github following the [Assignments.md](./Assignments.md).
    
 - Final Report: 70%
-    - To be declared later.
+    - See the [FinalReport.pdf](./FinalReport.pdf).
