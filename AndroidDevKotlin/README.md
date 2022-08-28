@@ -5,11 +5,11 @@ This course is designed for students taking instructor-led Android curriculum in
 - Learners are expected to be familiar with object-oriented programming language, how to use an IDE, and how to use GitHub. 
 - No prior experience with Kotlin or Android is necessary.
 
-## Lecture Slides and Code Samples
+## Lecture Slides and Codelabs
 - The course is 13 lessons long with each lecture being approximately 1 hour long. 
 - Each lecture is accompanied by 2 hours of hands-on codelabs for learners to complete on their own. 
 
-## Lecture Slides and Code Samples
+## Course Catalog
 - Introduction	Android Development with Kotlin
 - Lesson 1	Kotlin Basics
 - Lesson 2	Functions
