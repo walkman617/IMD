@@ -4,4 +4,4 @@ Lesson 1: Kotlin basics
 
 Lesson 2: Functions
 - Pathway: https://developer.android.com/courses/pathways/android-development-with-kotlin-2
-- Homework: https://docs.qq.com/form/page/DYlpDbUh1UVZSdEFl
+- Homework: https://docs.qq.com/form/page/DYmtSQVRnVk1JdmFw
