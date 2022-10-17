@@ -13,3 +13,7 @@ Lesson 3: Classes and Objects
 Lesson 4: Build your first Android app
 - Pathway: https://developer.android.com/courses/pathways/android-development-with-kotlin-4
 - Homework: https://docs.qq.com/form/page/DYkhBQVRGS1h3U3Vt
+
+Lesson 5: Layouts
+- Pathway: https://developer.android.com/courses/pathways/android-development-with-kotlin-5
+- Homework: https://docs.qq.com/form/page/DYlBva3hudnFvQmZz
