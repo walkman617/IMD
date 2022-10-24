@@ -17,3 +17,7 @@ Lesson 4: Build your first Android app
 Lesson 5: Layouts
 - Pathway: https://developer.android.com/courses/pathways/android-development-with-kotlin-5
 - Homework: https://docs.qq.com/form/page/DYlBva3hudnFvQmZz
+
+Lesson 6: App Navigation
+- Pathway: https://developer.android.com/courses/pathways/android-development-with-kotlin-6
+- Homework: https://docs.qq.com/form/page/DYnpDbndHcmtuR1NO
