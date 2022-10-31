@@ -21,3 +21,7 @@ Lesson 5: Layouts
 Lesson 6: App Navigation
 - Pathway: https://developer.android.com/courses/pathways/android-development-with-kotlin-6
 - Homework: https://docs.qq.com/form/page/DYnpDbndHcmtuR1NO
+
+Lesson 7: Activity and fragment lifecycles
+- Pathway: https://developer.android.com/courses/pathways/android-development-with-kotlin-7
+- Homework: https://docs.qq.com/form/page/DYmd1c21Dd3VibEV1
