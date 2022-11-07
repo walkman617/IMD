@@ -25,3 +25,7 @@ Lesson 6: App Navigation
 Lesson 7: Activity and fragment lifecycles
 - Pathway: https://developer.android.com/courses/pathways/android-development-with-kotlin-7
 - Homework: https://docs.qq.com/form/page/DYmd1c21Dd3VibEV1
+
+Lesson 8: App architecture (UI layer)
+- Pathway: https://developer.android.com/courses/pathways/android-development-with-kotlin-8
+- Homework: https://docs.qq.com/form/page/DYmd1c21Dd3VibEV1
