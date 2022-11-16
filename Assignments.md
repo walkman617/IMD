@@ -29,3 +29,7 @@ Lesson 7: Activity and fragment lifecycles
 Lesson 8: App architecture (UI layer)
 - Pathway: https://developer.android.com/courses/pathways/android-development-with-kotlin-8
 - Homework: https://docs.qq.com/form/page/DYmh6YkJ4VFhEbk14
+
+Lesson 9: App architecture (persistence)
+- Pathway: https://developer.android.com/courses/pathways/android-development-with-kotlin-9
+- Homework: https://docs.qq.com/form/page/DYndMbWRGaEF2aW1V
