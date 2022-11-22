@@ -33,3 +33,7 @@ Lesson 8: App architecture (UI layer)
 Lesson 9: App architecture (persistence)
 - Pathway: https://developer.android.com/courses/pathways/android-development-with-kotlin-9
 - Homework: https://docs.qq.com/form/page/DYndMbWRGaEF2aW1V
+
+Lesson 10: Advanced RecyclerView
+- Pathway: https://developer.android.com/courses/pathways/android-development-with-kotlin-10
+- Homework: https://docs.qq.com/form/page/DYllGSFNSR05XcHFR
