@@ -1,8 +1,8 @@
 # Intelligent Mobile Development
 
-**Slides: **[AndroidDevKotlin](https://github.com/walkman617/AndroidDevKotlin)
-**Assignments: **[Assignments.md](Assignments.md)
-**QA: **[QA.md](QA.md)
+- Slides: [AndroidDevKotlin](https://github.com/walkman617/AndroidDevKotlin)
+- Assignments: [Assignments.md](Assignments.md)
+- QA: [QA.md](QA.md)
 
 
 ## [Kotlin](https://kotlinlang.org/)
