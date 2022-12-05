@@ -37,3 +37,7 @@ Lesson 9: App architecture (persistence)
 Lesson 10: Advanced RecyclerView
 - Pathway: https://developer.android.com/courses/pathways/android-development-with-kotlin-10
 - Homework: https://docs.qq.com/form/page/DYllGSFNSR05XcHFR
+
+Lesson 11: Connect to the internet
+- Pathway: https://developer.android.com/courses/pathways/android-development-with-kotlin-11
+- Homework: https://docs.qq.com/form/page/DYkhaaXRmUXpQb3Nl
