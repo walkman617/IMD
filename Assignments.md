@@ -41,3 +41,8 @@ Lesson 10: Advanced RecyclerView
 Lesson 11: Connect to the internet
 - Pathway: https://developer.android.com/courses/pathways/android-development-with-kotlin-11
 - Homework: https://docs.qq.com/form/page/DYkhaaXRmUXpQb3Nl
+
+Lesson 12: Repository pattern and WorkManager
+- Pathway: https://developer.android.com/courses/pathways/android-development-with-kotlin-12
+- Homework: https://docs.qq.com/form/page/DYk1URWh4cGVVZWFa
+
