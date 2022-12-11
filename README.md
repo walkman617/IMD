@@ -2,6 +2,7 @@
 
 - Slides: [AndroidDevKotlin](https://github.com/walkman617/AndroidDevKotlin)
 - Assignments: [Assignments.md](Assignments.md)
+- Final Report: [Final Report](https://docs.qq.com/doc/DYnZHeXZLSUFYYnBG)
 - QA: [QA.md](QA.md)
 
 
