@@ -46,3 +46,6 @@ Lesson 12: Repository pattern and WorkManager
 - Pathway: https://developer.android.com/courses/pathways/android-development-with-kotlin-12
 - Homework: https://docs.qq.com/form/page/DYk1URWh4cGVVZWFa
 
+Lesson 13: App UI design
+- Pathway: https://developer.android.com/courses/pathways/android-development-with-kotlin-13
+- Homework: https://docs.qq.com/form/page/DYm5kYnpscUlGV2FI
